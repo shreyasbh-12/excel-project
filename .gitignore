@@ -1,0 +1,28 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+senv/
+
+# # Flask configuration files (if sensitive, e.g., .env files)
+# .env
+# *.env
+
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Coverage and test reports
+.coverage
+*.coverage
+*.log
+*.bak
